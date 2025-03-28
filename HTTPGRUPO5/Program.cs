@@ -1,4 +1,4 @@
-var builder = WebApplication.CreateBuilder(args); // Hola mano
+var builder = WebApplication.CreateBuilder(args); // Hola mano GG gente me voy y largo
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
